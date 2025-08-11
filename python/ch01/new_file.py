@@ -1,1 +1,1 @@
-print('VSCODE 새파일')
+print('새파일')
